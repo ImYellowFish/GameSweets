@@ -1,0 +1,21 @@
+GameObject
+Components
+Renderer (Character and scenes)/Disable to hide
+Position holder(Spawner)/Drag for reference
+Copy & Paste (Raw level design)
+
+Transform:
+Follow/Parent -> Following camera
+
+Physics:
+Rigidbody, Velocity/Force/Rotation
+Trigger/Collider
+Tag for message classification
+
+Logic:
+Script or PlayMaker
+Events, Transitions, States and Variables
+
+UI
+
+Roadmap to better game
