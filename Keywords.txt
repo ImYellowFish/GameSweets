@@ -5,6 +5,7 @@ Position holder(Spawner)/Drag for reference
 Copy & Paste (Raw level design)
 
 Transform:
+TRS
 Follow/Parent -> Following camera
 
 Physics:
@@ -15,7 +16,25 @@ Tag for message classification
 Logic:
 Script or PlayMaker
 Events, Transitions, States and Variables
+Show variables in Inspector (Data management)
+Use FSM to define properties
+Debugging
+Multiple layers of statemachines; Share data & events between statemachine
+
 
 UI
 
 Roadmap to better game
+
+
+=================================================
+
+PlayMaker
+Variables, events and transitions
+
+About 3D Rendering
+Materials
+
+About Editor
+Run/Stop/Pause
+Inspector
